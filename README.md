@@ -1,6 +1,5 @@
 
-# ML-PythonBasic 🤖
-
+# ML-PythonBasic 
 Repositori ini berisi kumpulan tugas dan catatan belajar mengenai dasar-dasar pemrograman Python.
 
 📂 Struktur Folder
